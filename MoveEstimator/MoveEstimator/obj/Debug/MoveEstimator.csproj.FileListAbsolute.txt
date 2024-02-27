@@ -1,0 +1,10 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\bin\Debug\MoveEstimator.exe.config
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\bin\Debug\MoveEstimator.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\bin\Debug\MoveEstimator.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.csproj.AssemblyReference.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.Form1.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.Properties.Resources.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\MoveEstimator\obj\Debug\MoveEstimator.pdb

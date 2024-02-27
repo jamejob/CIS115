@@ -1,0 +1,4 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0\MoveEstimator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0\MoveEstimator.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0\MoveEstimator.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\MoveEstimator\obj\Debug\net8.0\MoveEstimator.csproj.CoreCompileInputs.cache
