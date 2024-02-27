@@ -1,0 +1,10 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\bin\Debug\Piglatin.exe.config
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\bin\Debug\Piglatin.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\bin\Debug\Piglatin.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.csproj.AssemblyReference.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.Form1.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.Properties.Resources.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Piglatin\Piglatin\obj\Debug\Piglatin.pdb
