@@ -1,0 +1,10 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\bin\Debug\Twitter.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\bin\Debug\Twitter.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.csproj.AssemblyReference.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.Form1.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.Properties.Resources.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Twitter\Twitter\obj\Debug\Twitter.pdb
