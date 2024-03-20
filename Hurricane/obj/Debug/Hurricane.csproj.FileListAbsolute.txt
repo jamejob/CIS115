@@ -1,0 +1,10 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\bin\Debug\Hurricane.exe.config
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\bin\Debug\Hurricane.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\bin\Debug\Hurricane.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.AssemblyReference.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.Form1.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.Properties.Resources.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Hurricane\Hurricane\obj\Debug\Hurricane.pdb
