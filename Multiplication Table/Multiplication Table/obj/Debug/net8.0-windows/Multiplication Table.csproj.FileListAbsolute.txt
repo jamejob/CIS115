@@ -1,0 +1,16 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\bin\Debug\net8.0-windows\Multiplication Table.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\bin\Debug\net8.0-windows\Multiplication Table.deps.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\bin\Debug\net8.0-windows\Multiplication Table.runtimeconfig.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\bin\Debug\net8.0-windows\Multiplication Table.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\bin\Debug\net8.0-windows\Multiplication Table.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication_Table.Form1.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\refint\Multiplication Table.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\Multiplication Table.genruntimeconfig.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\Multiplication Table\Multiplication Table\obj\Debug\net8.0-windows\ref\Multiplication Table.dll
