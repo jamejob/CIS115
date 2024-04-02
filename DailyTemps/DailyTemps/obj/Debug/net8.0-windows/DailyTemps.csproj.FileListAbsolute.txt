@@ -1,0 +1,16 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\bin\Debug\net8.0-windows\DailyTemps.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\bin\Debug\net8.0-windows\DailyTemps.deps.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\bin\Debug\net8.0-windows\DailyTemps.runtimeconfig.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\bin\Debug\net8.0-windows\DailyTemps.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\bin\Debug\net8.0-windows\DailyTemps.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.Form1.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\refint\DailyTemps.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\DailyTemps.genruntimeconfig.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DailyTemps\DailyTemps\obj\Debug\net8.0-windows\ref\DailyTemps.dll
