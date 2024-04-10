@@ -1,0 +1,16 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.deps.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.runtimeconfig.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.TestScoreList.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\refint\TestScoreList.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.genruntimeconfig.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\ref\TestScoreList.dll
