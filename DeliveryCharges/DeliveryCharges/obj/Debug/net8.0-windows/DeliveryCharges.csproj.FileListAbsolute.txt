@@ -1,0 +1,16 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.DeliveryCharges.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0-windows\DeliveryCharges.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0-windows\DeliveryCharges.deps.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0-windows\DeliveryCharges.runtimeconfig.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0-windows\DeliveryCharges.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0-windows\DeliveryCharges.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\refint\DeliveryCharges.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\DeliveryCharges.genruntimeconfig.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0-windows\ref\DeliveryCharges.dll
