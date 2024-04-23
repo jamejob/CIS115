@@ -1,0 +1,16 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\bin\Debug\net8.0-windows\FieneForOverdueBooks.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\bin\Debug\net8.0-windows\FieneForOverdueBooks.deps.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\bin\Debug\net8.0-windows\FieneForOverdueBooks.runtimeconfig.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\bin\Debug\net8.0-windows\FieneForOverdueBooks.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\bin\Debug\net8.0-windows\FieneForOverdueBooks.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.FineForOverdueBooks.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\refint\FieneForOverdueBooks.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\FieneForOverdueBooks.genruntimeconfig.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\FieneForOverdueBooks\FieneForOverdueBooks\obj\Debug\net8.0-windows\ref\FieneForOverdueBooks.dll
