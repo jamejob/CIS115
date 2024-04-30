@@ -1,0 +1,16 @@
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\bin\Debug\net8.0-windows\PaintingEstimate.exe
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\bin\Debug\net8.0-windows\PaintingEstimate.deps.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\bin\Debug\net8.0-windows\PaintingEstimate.runtimeconfig.json
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\bin\Debug\net8.0-windows\PaintingEstimate.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\bin\Debug\net8.0-windows\PaintingEstimate.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.PaintingEstimate.resources
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.csproj.GenerateResource.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.AssemblyInfo.cs
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\refint\PaintingEstimate.dll
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.pdb
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\PaintingEstimate.genruntimeconfig.cache
+C:\Users\mdcsj\source\repos\MoveEstimator\Piglatin\PaintingEstimate\PaintingEstimate\obj\Debug\net8.0-windows\ref\PaintingEstimate.dll
