@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Beginner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CardBasics.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeckBuilding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BeginnerGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BeginQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CardTypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MTGQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WaysPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Stack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Phases.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lands.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Intermediate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Introduction.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MTGLearning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
